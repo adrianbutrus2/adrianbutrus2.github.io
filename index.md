@@ -5,7 +5,7 @@ I am majoring in Computer Science at CSUF and I expect to graduate in 2026.
 My favorite CPSC 120 Labs
 
 - **Lab 7**
-  - Lab 7, part 2 was a favorite because I am a fan of the game of Blackjack, my friends and I play it sometimes. I successfully crafted functions for the first time, 
+- Lab 7, part 2 was a favorite because I am a fan of the game of Blackjack, my friends and I play it sometimes. I successfully crafted functions for the first time, 
 enabling accurate calculation of a Blackjack hand's value, irrespective of the number of Aces in play. 
 
 - **Lab 10** 
