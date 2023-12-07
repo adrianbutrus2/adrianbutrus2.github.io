@@ -14,4 +14,4 @@ reverse are prime and printing the original numbers that meet this criteria. Thi
 
 - **Lab 12**
 - Lab 12, was a favorite of mine because it was the first time I created an image. The image had an appearance as if it was moving, but it was actually just an 
-illusion, which I think is really cool. 
+illusion, which I think is really cool. I hope to utilize this skill on my own personal projects and was super excited to learn this topic.
